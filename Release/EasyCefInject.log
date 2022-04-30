@@ -1,6 +1,9 @@
-﻿  正在生成代码
-  1 of 85 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+﻿  dllmain.cpp
+dllmain.obj : warning LNK4104: 导出符号“DllInitialize”应为 PRIVATE
+    正在创建库 I:\EasyCEFInject\Release\EasyCefInject.lib 和对象 I:\EasyCEFInject\Release\EasyCefInject.exp
+  正在生成代码
+  4 of 222 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
-  EasyCefInject.vcxproj -> L:\Projects\easyCefInject\EasyCefInject\Release\EasyCefInject.dll
+  EasyCefInject.vcxproj -> I:\EasyCEFInject\Release\EasyCefInject.dll
